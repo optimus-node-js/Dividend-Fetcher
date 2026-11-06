@@ -4,6 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
 
+**Related:** Live dividend API: [divident-fetch-server.vercel.app](https://divident-fetch-server.vercel.app)
+
 ## Features
 
 - Parses Moneycontrol's *Dividends Declared* cards (company, type, %, amount, record & ex-dates)
